@@ -1,0 +1,58 @@
+{
+"skeleton": { "hash": "qNEnJPxCk/XhIehWfD303L+BBes", "spine": "3.7.87", "width": 363, "height": 393 },
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "bone2",
+		"parent": "root",
+		"length": 20.29,
+		"rotation": 90,
+		"x": -5.1,
+		"y": 258.32,
+		"scaleX": 0.875,
+		"scaleY": 0.742
+	},
+	{ "name": "bone", "parent": "bone2", "length": 27.78, "rotation": -90, "x": -0.06, "y": 0.1 }
+],
+"slots": [
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "Book Store", "bone": "root", "attachment": "Book Store" },
+	{ "name": "1", "bone": "bone", "attachment": "1" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "x": 6.49, "y": 0.8, "width": 28, "height": 16 }
+		},
+		"2": {
+			"2": { "x": -9.44, "y": 198.5, "width": 252, "height": 338 }
+		},
+		"Book Store": {
+			"Book Store": { "x": 3.06, "y": 17, "width": 363, "height": 85 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.8333, "angle": -90 },
+					{ "time": 1.6667, "angle": 180 },
+					{ "time": 2.5, "angle": 90 },
+					{ "time": 3.3333, "angle": 0 }
+				]
+			},
+			"bone2": {
+				"translate": [
+					{ "time": 0, "x": 0.38, "y": 1.07 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.805, "y": 0.857 }
+				]
+			}
+		}
+	}
+}
+}

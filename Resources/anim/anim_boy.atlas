@@ -1,0 +1,167 @@
+
+anim_boy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 787, 276
+  size: 140, 48
+  orig: 142, 50
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 232, 2
+  size: 78, 185
+  orig: 78, 185
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 462, 193
+  size: 61, 46
+  orig: 63, 48
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 813, 369
+  size: 195, 141
+  orig: 197, 143
+  offset: 1, 1
+  index: -1
+13
+  rotate: true
+  xy: 929, 276
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 492, 280
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 2, 7
+  size: 65, 173
+  orig: 65, 173
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 305, 249
+  size: 108, 185
+  orig: 108, 185
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 622, 302
+  size: 57, 163
+  orig: 57, 163
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 605, 246
+  size: 54, 159
+  orig: 54, 159
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 813, 326
+  size: 41, 177
+  orig: 41, 177
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 622, 361
+  size: 189, 149
+  orig: 189, 149
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 232, 82
+  size: 56, 169
+  orig: 56, 169
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 290, 162
+  size: 85, 170
+  orig: 85, 178
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 364, 94
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 253
+  size: 301, 257
+  orig: 301, 257
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 290, 82
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+61
+  rotate: false
+  xy: 419, 16
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 177, 2
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+71
+  rotate: true
+  xy: 492, 241
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 525, 194
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 74
+  size: 228, 177
+  orig: 228, 177
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 305, 359
+  size: 315, 151
+  orig: 315, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2416 @@
+[
+  {
+    "id": "f4a9b5e28e5363f0e4b3da63f01182b5",
+    "typeCode": 1,
+    "customSign": "题型-1",
+    "unitId": "1c228a917de1f5b320ce2a35275d9235",
+    "levelId": "a70b680c12d676cda705e2d4c2e8e761",
+    "topicBody": "Listen and choose the correct image.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2019-11-25/bac104439af2836c6050fe8385d7292c.mp3",
+        "size": 41505,
+        "name": "Ball.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-11-25/bac104439af2836c6050fe8385d7292c.mp3"
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-25/e4826ae5eb5d54bab4246884ceada679.jpg",
+        "ossFileName": "subject/options/img/2019-11-25/e4826ae5eb5d54bab4246884ceada679.jpg",
+        "size": 8855,
+        "correct": 1,
+        "name": "ball - red.jpg",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-25/c7f0dca7545a0a456dc402f24b3049b3.png",
+        "ossFileName": "subject/options/img/2019-11-25/c7f0dca7545a0a456dc402f24b3049b3.png",
+        "size": 76397,
+        "correct": 0,
+        "name": "books.png",
+        "index": 1,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-25/e1b196856f80b4f8824ef7a79faf97e2.jpg",
+        "ossFileName": "subject/options/img/2019-11-25/e1b196856f80b4f8824ef7a79faf97e2.jpg",
+        "size": 22911,
+        "correct": 0,
+        "name": "markers.jpg",
+        "index": 2,
+        "mediaType": 1
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "5611cbe2485cdb9268735194697e5dda",
+    "typeCode": 2,
+    "customSign": "题型-2",
+    "unitId": "77139b576944fe3b9ff4f60a21f53d8e",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose True or False.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2019-12-31/b0142a035805a5e7be316054c5d96431.mp3",
+        "size": 35252,
+        "name": "TL163.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-31/b0142a035805a5e7be316054c5d96431.mp3"
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-12-31/e17aa488ec38048bea094b56a07db470.png",
+        "ossFileName": "subject/options/img/2019-12-31/e17aa488ec38048bea094b56a07db470.png",
+        "size": 114165,
+        "correct": 0,
+        "name": "_0003_图层-1.png",
+        "index": 0,
+        "mediaType": 1
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "88c85785464ddceffa5743d476496c8a",
+    "typeCode": 3,
+    "customSign": "题型-3",
+    "unitId": "953737ef3c0c8efa951b64b162792384",
+    "levelId": "eb0b9af9ad6c70ba5a167f7b6a393ecf",
+    "topicBody": "Listen and choose True or False.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2020-03-31/185f8e59e3d05ec457f02922d0cce031.jpg",
+        "ossFileName": "subject/topics/img/2020-03-31/185f8e59e3d05ec457f02922d0cce031.jpg",
+        "size": 59173,
+        "name": "5,111.jpg",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "ossFileName": "subject/topics/audio/2020-02-23/444efbb96189f169687acf4a15059c31.mp3",
+        "size": 405356,
+        "name": "11 T1_CD1_track6 - 副本.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2020-02-23/444efbb96189f169687acf4a15059c31.mp3"
+      }
+    ],
+    "options": [
+      {
+        "txt": "Alex is older than Maria Alex is older than MariaAlex is older than MariaAlex is older than MariaAlex is older than Maria.",
+        "correct": 1,
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "Alex is older than Maria Alex is older than MariaAlex..",
+        "correct": 1,
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "ea49a4ea6bc8b476ad221fe218ec3690",
+    "typeCode": 4,
+    "customSign": "题型-4",
+    "unitId": "953737ef3c0c8efa951b64b162792384",
+    "levelId": "eb0b9af9ad6c70ba5a167f7b6a393ecf",
+    "topicBody": "Listen and choose the correct answer.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2020-02-23/8104ce0a4876430dd2e9dde3ce1eee8c.mp3",
+        "size": 112979,
+        "name": "10 how old are you.I'm six.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2020-02-23/8104ce0a4876430dd2e9dde3ce1eee8c.mp3"
+      },
+      {
+        "txt": "How old is Maria?",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "txt": "How old is MariaHow old is MariaHow old is MariaHow old is MariaHow old is MariaHow old is Maria",
+        "correct": 1,
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "7",
+        "correct": 0,
+        "index": 1,
+        "mediaType": 0
+      },
+      {
+        "txt": "8",
+        "correct": 0,
+        "index": 2,
+        "mediaType": 0
+      },
+      {
+        "txt": "9",
+        "correct": 0,
+        "index": 3,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "6d6d82aa09b24c56595926d4ce583b1b",
+    "typeCode": 5,
+    "customSign": "题型-5",
+    "unitId": "15c81a8d72e884b13ec2b7d31460ae2a",
+    "levelId": "5c86b888a4d342da5f89c3d21cb807e5",
+    "topicBody": "Listen and choose the correct audio.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2020-01-14/15b43abd59f4e4f47f6c52c2fa4add62.mp3",
+        "size": 114121,
+        "name": "767  Listen and find the words that have the same sound a like games  - 副本 (2).mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2020-01-14/15b43abd59f4e4f47f6c52c2fa4add62.mp3"
+      },
+      {
+        "txt": "",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "ossFileName": "subject/topics/audio/2020-01-14/6d41e6034269da927a5845901b822b6e.mp3",
+        "size": 21346,
+        "correct": 0,
+        "name": "t2_u3_shirt.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2020-01-14/6d41e6034269da927a5845901b822b6e.mp3"
+      },
+      {
+        "ossFileName": "subject/topics/audio/2020-01-14/6ae6142a7d865dab402727b8561dab8c.mp3",
+        "size": 16330,
+        "correct": 0,
+        "name": "t2_u4_cards.mp3",
+        "index": 1,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2020-01-14/6ae6142a7d865dab402727b8561dab8c.mp3"
+      },
+      {
+        "ossFileName": "subject/topics/audio/2020-01-14/2798571738e46c07d353b0440ca597e5.mp3",
+        "size": 19673,
+        "correct": 1,
+        "name": "t2_u5_play.mp3",
+        "index": 2,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2020-01-14/2798571738e46c07d353b0440ca597e5.mp3"
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "54120e0f616bf9caea799a71c5fa4480",
+    "typeCode": 6,
+    "customSign": "题型-6",
+    "unitId": "59dfa9aad0f2ade9b29e5ae02b6116be",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Read and find the correct image.",
+    "subjecttype": 1,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "go on excursions",
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-25/80ed3e93a03e88b2df770a6e8ba88c2d.png",
+        "ossFileName": "subject/options/img/2019-11-25/80ed3e93a03e88b2df770a6e8ba88c2d.png",
+        "size": 199335,
+        "correct": 0,
+        "name": "7.png",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-25/8312efd7f4634c5a18bf80835893c4f5.png",
+        "ossFileName": "subject/options/img/2019-11-25/8312efd7f4634c5a18bf80835893c4f5.png",
+        "size": 214177,
+        "correct": 0,
+        "name": "8.png",
+        "index": 1,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-25/d7477dc02ea76c3e43a28250c9fc8709.png",
+        "ossFileName": "subject/options/img/2019-11-25/d7477dc02ea76c3e43a28250c9fc8709.png",
+        "size": 290946,
+        "correct": 1,
+        "name": "go on excursions.png",
+        "index": 2,
+        "mediaType": 1
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "b0845be5de096fc0dfea724eec0c929e",
+    "typeCode": 7,
+    "customSign": "题型-7",
+    "unitId": "59dfa9aad0f2ade9b29e5ae02b6116be",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Read and choose True or False.",
+    "subjecttype": 1,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "You use the keyboard to click on the screen.",
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-27/3a7f10cdd840b1f1a30c0106d507872d.png",
+        "ossFileName": "subject/options/img/2019-11-27/3a7f10cdd840b1f1a30c0106d507872d.png",
+        "size": 424154,
+        "correct": 0,
+        "name": "U1L5A5Q8-9.png",
+        "index": 0,
+        "mediaType": 1
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "b393f755aa5da4e86d09f8be7b42f97a",
+    "typeCode": 8,
+    "customSign": "题型-8",
+    "unitId": "c884262e8b495166782f5af7ad1c4340",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Read and answer the question.",
+    "subjecttype": 1,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "What are Lia and Sam doing?",
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "txt": "They are making a sandcastle They are making a sandcastle They are making a sandcastle They are making a sandcastle.",
+        "correct": 0,
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "They are collecting shells.",
+        "correct": 0,
+        "index": 1,
+        "mediaType": 0
+      },
+      {
+        "txt": "They are snorkeling in the sea.",
+        "correct": 1,
+        "index": 2,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "9bd1cea64585d9e804b8ff2b133557e2",
+    "typeCode": 9,
+    "customSign": "题型-9",
+    "unitId": "77139b576944fe3b9ff4f60a21f53d8e",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Speak out the sentences.",
+    "subjecttype": 3,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2019-12-31/72ad3b5e15d821daf50fca8e3e7943b2.mp3",
+        "size": 102234,
+        "name": "TL176.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-31/72ad3b5e15d821daf50fca8e3e7943b2.mp3"
+      },
+      {
+        "txt": "What is this? This is a circle.",
+        "mediaType": 0
+      }
+    ],
+    "options": [],
+    "extoptions": null
+  },
+  {
+    "id": "0580ba1e5af4ef688050b5766ea44689",
+    "typeCode": 11,
+    "customSign": "题型-11",
+    "unitId": "59dfa9aad0f2ade9b29e5ae02b6116be",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Look, read and choose.",
+    "subjecttype": 1,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-26/2bf736c3d63d11dd92e9e195747e692b.png",
+        "ossFileName": "subject/topics/img/2019-11-26/2bf736c3d63d11dd92e9e195747e692b.png",
+        "size": 150910,
+        "name": "2.png",
+        "index": 0,
+        "mediaType": 1
+      }
+    ],
+    "options": [
+      {
+        "txt": "Clare: I paint picturesClare: I paint picturesClare: I paint picturesClare: I paint pictures.",
+        "correct": 0,
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "Clare: I take photos.",
+        "correct": 1,
+        "index": 1,
+        "mediaType": 0
+      },
+      {
+        "txt": "Clare: I don't make things.",
+        "correct": 0,
+        "index": 2,
+        "mediaType": 0
+      },
+      {
+        "txt": "Clare: I don't take photos.",
+        "correct": 0,
+        "index": 3,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "96f32706b4277b6a6f7f628632ebc530",
+    "typeCode": 13,
+    "customSign": "题型-13",
+    "unitId": "77139b576944fe3b9ff4f60a21f53d8e",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Look, read and match.",
+    "subjecttype": 1,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-12-31/902979e89abdfbdb40fc9d4cc311b0f3.png",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-12-31/27c009e5c3a7fe8364bdeec326f9ca41.png",
+        "index": 1,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-12-31/d6e6f11c1aefe50a77e0c056d0260ab2.png",
+        "index": 2,
+        "mediaType": 1
+      }
+    ],
+    "options": [
+      {
+        "ossFileName": "subject/topics/audio/2019-12-31/6ab20b2f8023ed3cad60693b16af0265.mp3",
+        "size": 44012,
+        "name": "Yellow.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-31/6ab20b2f8023ed3cad60693b16af0265.mp3"
+      },
+      {
+        "ossFileName": "subject/topics/audio/2019-12-31/a55c0566e0acc8354f6847f91760fce3.mp3",
+        "size": 44639,
+        "name": "Red.mp3",
+        "index": 1,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-31/a55c0566e0acc8354f6847f91760fce3.mp3"
+      },
+      {
+        "ossFileName": "subject/topics/audio/2019-12-31/71d0af8f8d73bec8b07ab894baaa74ab.mp3",
+        "size": 49028,
+        "name": "Orange.mp3",
+        "index": 2,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-31/71d0af8f8d73bec8b07ab894baaa74ab.mp3"
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "940758d135e3078010c91e14feb2785c",
+    "typeCode": 14,
+    "customSign": "题型-14",
+    "unitId": "613cce7b0725b798d3b71e07da23eefd",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Complete the sentence.",
+    "subjecttype": 2,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "The shoe is  <*>  the chair. ",
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-25/c797513679f21f25165fbbc5afe2b2a7.png",
+        "ossFileName": "subject/topics/img/2019-11-25/c797513679f21f25165fbbc5afe2b2a7.png",
+        "size": 441792,
+        "name": "U0L1A1Q7-12-min.png",
+        "mediaType": 1
+      }
+    ],
+    "options": [
+      {
+        "txt": "The shoe is ",
+        "setState": true,
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "under",
+        "setState": true,
+        "index": 1,
+        "mediaType": 0,
+        "status": 1
+      },
+      {
+        "txt": " the chair.",
+        "setState": true,
+        "index": 2,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "f3c0f8729acd726d910913c96b856453",
+    "typeCode": 15,
+    "customSign": "题型-15",
+    "unitId": "77139b576944fe3b9ff4f60a21f53d8e",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Speak out the word.",
+    "subjecttype": 3,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "/subject/topics/audio/2019-12-31/6802a481c99b62704f338280f6ec825c.mp3",
+        "size": 44012,
+        "name": "Yellow.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com//subject/topics/audio/2019-12-31/6802a481c99b62704f338280f6ec825c.mp3"
+      },
+      {
+        "img": "http://oss.hkxdjy.com//subject/topics/img/2019-12-31/bb87fe6d1cbf6c37e75f11add2ee662a.png",
+        "ossFileName": "/subject/topics/img/2019-12-31/bb87fe6d1cbf6c37e75f11add2ee662a.png",
+        "size": 170000,
+        "name": "yellow crayon1.png",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "txt": "yellow",
+        "mediaType": 0
+      }
+    ],
+    "options": [],
+    "extoptions": null
+  },
+  {
+    "id": "16faf4f7b6a8c0bb72230fcbc9ec1c72",
+    "typeCode": 16,
+    "customSign": "题型-16",
+    "unitId": "59dfa9aad0f2ade9b29e5ae02b6116be",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Look，listen and choose.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-25/5d6c89d973b8e4dccb23c6425d7c992b.png",
+        "ossFileName": "subject/topics/img/2019-11-25/5d6c89d973b8e4dccb23c6425d7c992b.png",
+        "size": 222648,
+        "name": "play games.png",
+        "index": 0,
+        "mediaType": 1
+      }
+    ],
+    "options": [
+      {
+        "ossFileName": "subject/topics/audio/2019-11-25/4f3e20658a88b5a3a3b0d51866178604.mp3",
+        "size": 14035,
+        "correct": 0,
+        "name": "paint pictures.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-11-25/4f3e20658a88b5a3a3b0d51866178604.mp3"
+      },
+      {
+        "ossFileName": "subject/topics/audio/2019-11-25/a9decf1f43d9761f898368e11672ecd0.mp3",
+        "size": 14243,
+        "correct": 1,
+        "name": "play games.mp3",
+        "index": 1,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-11-25/a9decf1f43d9761f898368e11672ecd0.mp3"
+      },
+      {
+        "ossFileName": "subject/topics/audio/2019-11-25/e66cbf04ae5c7052f04e13d76766c6ff.mp3",
+        "size": 15080,
+        "correct": 0,
+        "name": "watch films.mp3",
+        "index": 2,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-11-25/e66cbf04ae5c7052f04e13d76766c6ff.mp3"
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "9fffdda688ba11416293028db4c07e6b",
+    "typeCode": 17,
+    "customSign": "题型-17",
+    "unitId": "661b38d283f836740dac42bd930504fa",
+    "levelId": "eb0b9af9ad6c70ba5a167f7b6a393ecf",
+    "topicBody": "Look and choose True or False.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/video/2020-01-02/c437d151458322bbf2a2203022c61840.mp4",
+        "size": 8877667,
+        "name": "4U2L2D1Q11.mp4",
+        "mediaType": 3,
+        "video": "http://oss.hkxdjy.com/subject/topics/video/2020-01-02/c437d151458322bbf2a2203022c61840.mp4"
+      }
+    ],
+    "options": [
+      {
+        "txt": "The fox can catch the gingerbread man.",
+        "correct": 0,
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "95739868a336893b329ef22ca81b87f0",
+    "typeCode": 18,
+    "customSign": "题型-18",
+    "unitId": "77139b576944fe3b9ff4f60a21f53d8e",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Find the missing shape.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/video/2019-12-31/028bc6e4f806a6afa882401740b8128a.mp4",
+        "size": 145251,
+        "name": "square.mp4",
+        "mediaType": 3,
+        "video": "http://oss.hkxdjy.com/subject/topics/video/2019-12-31/028bc6e4f806a6afa882401740b8128a.mp4"
+      },
+      {
+        "txt": " ",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-12-31/747408755e13bf4e7a75ed765b965a2b.png",
+        "correct": 1,
+        "index": 0,
+        "mediaType": 1,
+        "audio": true
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-12-31/fbf2c16aa600c590b8fb3073267f966b.png",
+        "correct": 0,
+        "index": 1,
+        "mediaType": 1,
+        "audio": true
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-12-31/2021b97c38313bac bda86e41ea2a409e.png",
+        "correct": 0,
+        "index": 2,
+        "mediaType": 1,
+        "audio": true
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "3465ca60a3c3079285c0fddba01ce2ea",
+    "typeCode": 18,
+    "customSign": "题型-18-2",
+    "unitId": "cb9d9482df46b1d24d449090a102ebb7",
+    "levelId": "eb0b9af9ad6c70ba5a167f7b6a393ecf",
+    "topicBody": "Look and choose the correct image.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/video/2019-11-26/ea344ed6f8a917f6bf87155d1326dc7a.mp4",
+        "size": 5966622,
+        "name": "10 choose tiger.mp4",
+        "mediaType": 3,
+        "video": "http://oss.hkxdjy.com/subject/topics/video/2019-11-26/ea344ed6f8a917f6bf87155d1326dc7a.mp4"
+      },
+      {
+        "txt": "Who asks to go with Sue and Jay?",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-26/7d8101fa0792599d62f052ab258339be.jpg",
+        "correct": 1,
+        "index": 0,
+        "mediaType": 1,
+        "audio": true
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-26/28154fb8c1c9e0610057d515e97a9c08.png",
+        "correct": 0,
+        "index": 1,
+        "mediaType": 1,
+        "audio": true
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-26/86178d25d0b1f68eb35508f0d1f9e6aa.png",
+        "correct": 0,
+        "index": 2,
+        "mediaType": 1,
+        "audio": true
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-26/df62d7c65a85f3ce642c6505299e4627.png",
+        "correct": 0,
+        "index": 3,
+        "mediaType": 1,
+        "audio": true
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "2bf958c69037bb5357f12231e0d8917d",
+    "typeCode": 19,
+    "customSign": "题型-19",
+    "unitId": "73764362e51f9adf0f186e006edd9338",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Speak out according to the video.",
+    "subjecttype": 3,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/video/2020-01-16/cdf80e9a35fa14ab12238b6cdbb4ae3e.mp4",
+        "size": 798216,
+        "name": "1Walk on the spot. .mp4",
+        "mediaType": 3,
+        "video": "http://oss.hkxdjy.com/subject/topics/video/2020-01-16/cdf80e9a35fa14ab12238b6cdbb4ae3e.mp4"
+      }
+    ],
+    "options": [
+      {
+        "txt": "Walk on the spot. ",
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "eb891b7ca7c1176e02728b6493dc82c9",
+    "typeCode": 20,
+    "customSign": "题型-20",
+    "unitId": "cb9d9482df46b1d24d449090a102ebb7",
+    "levelId": "eb0b9af9ad6c70ba5a167f7b6a393ecf",
+    "topicBody": "Put the words in the correct order.",
+    "subjecttype": 1,
+    "times": 3,
+    "topics": [],
+    "options": [
+      {
+        "txt": "Put",
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "it",
+        "correct": 0,
+        "index": 1,
+        "mediaType": 0
+      },
+      {
+        "txt": "in",
+        "correct": 0,
+        "index": 2,
+        "mediaType": 0
+      },
+      {
+        "txt": "the",
+        "correct": 0,
+        "index": 3,
+        "mediaType": 0
+      },
+      {
+        "txt": "basket.",
+        "correct": 0,
+        "index": 4,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "4c6a87d014403a70902ebcb3000d7c99",
+    "typeCode": 21,
+    "customSign": "题型-21",
+    "unitId": "0143943391d8939ed11d161900627d63",
+    "levelId": "5c86b888a4d342da5f89c3d21cb807e5",
+    "topicBody": "Put the story in order.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2019-11-26/5c0a3aaf1f53c08e812f16ee85cd89a0.mp3",
+        "size": 3317135,
+        "name": "T2_CD1_track15.mp3",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-11-26/5c0a3aaf1f53c08e812f16ee85cd89a0.mp3"
+      }
+    ],
+    "options": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/30863a01de76ec595cab3be4c828634d.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/30863a01de76ec595cab3be4c828634d.jpg",
+        "size": 196299,
+        "name": "1.jpg",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/104a587e8f4c9832aad5eb85e31015a6.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/104a587e8f4c9832aad5eb85e31015a6.jpg",
+        "size": 221409,
+        "name": "2.jpg",
+        "index": 1,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/82852878debc1b86adf48dc3c6449016.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/82852878debc1b86adf48dc3c6449016.jpg",
+        "size": 209367,
+        "name": "3.jpg",
+        "index": 2,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/a9b49f5c60dc1d2f2356016b2f8e0404.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/a9b49f5c60dc1d2f2356016b2f8e0404.jpg",
+        "size": 158941,
+        "name": "4.jpg",
+        "index": 3,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/1c745719f5ec448dcc1a44396299a35b.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/1c745719f5ec448dcc1a44396299a35b.jpg",
+        "size": 143846,
+        "name": "5.jpg",
+        "index": 4,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/0ef1d741bdac0c7466fea92e4ea65a01.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/0ef1d741bdac0c7466fea92e4ea65a01.jpg",
+        "size": 188757,
+        "name": "6.jpg",
+        "index": 5,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/b204ddf98cb4a06424fdb6694c271377.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/b204ddf98cb4a06424fdb6694c271377.jpg",
+        "size": 212929,
+        "name": "7.jpg",
+        "index": 6,
+        "mediaType": 1
+      },
+      {
+        "img": "http://oss.hkxdjy.com/subject/options/img/2019-11-26/02f05a5842d4a6d24f3eda16ac639cf2.jpg",
+        "ossFileName": "subject/options/img/2019-11-26/02f05a5842d4a6d24f3eda16ac639cf2.jpg",
+        "size": 236711,
+        "name": "8.jpg",
+        "index": 7,
+        "mediaType": 1
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 22,
+    "customSign": "题型-22",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 0,
+        "img": "0",
+        "audio": "",
+        "txt": "Find the doll.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/22_%E7%9C%8B%E5%9B%BE%E6%89%BE%E7%89%A9/u1343.jpg",
+        "audio": "",
+        "txt": "http://oss.hk",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "",
+        "audio": "",
+        "txt": "ball",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0,
+        "frame": {
+          "x": 287,
+          "y": 150,
+          "width": 140,
+          "height": 125
+        }
+      },
+      {
+        "mediaType": 1,
+        "img": "",
+        "audio": "",
+        "txt": "car",
+        "video": "",
+        "correct": 1,
+        "index": 1,
+        "status": 0,
+        "frame": {
+          "x": 430,
+          "y": 15,
+          "width": 200,
+          "height": 130
+        }
+      }
+    ]
+  },
+  {
+    "id": "e57a572876d40d54c8205945245c8135",
+    "typeCode": 23,
+    "customSign": "题型-23",
+    "unitId": "0143943391d8939ed11d161900627d63",
+    "levelId": "5c86b888a4d342da5f89c3d21cb807e5",
+    "topicBody": "Listen and choose.",
+    "subjecttype": 0,
+    "times": 3,
+    "topics": [
+      {
+        "ossFileName": "subject/topics/audio/2019-11-25/6dace96a36a86f1f93aef1d93b9ca8fd.mp3",
+        "size": 1431593,
+        "name": "T2_CD1_track14.mp3",
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-11-25/6dace96a36a86f1f93aef1d93b9ca8fd.mp3"
+      },
+      {
+        "txt": "Tiger, Tiger \n What do you know? \n Answer the questions. \n Here we go!  \n Number 1! What’s this?  \n It’s the  <*> \n Number 2! What’s this? \n It’s the  <*> \n Number 3! What’s this?  \n It’s the bathroom! \n Number 4! What’s this?  \n It’s the hall! \n Number 5! What’s this?  \n It’s the  <*> \n Number 6! What’s this? \n It’s the  <*> \n Number 7! What’s this? \n It’s the kitchen! \n Number 8! What’s this? \n It’s the garage! ",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "txt": "Tiger, Tiger",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "What do you know?",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Answer the questions.",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Here we go! ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaT ype": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 1! What’s this? ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "toilet!",
+        "correct": 1,
+        "index": 0,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": false,
+        "setShow": false,
+        "status": 1
+      },
+      {
+        "txt": "bathroom room!",
+        "correct": 0,
+        "index": 0,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": true,
+        "setShow": true,
+        "status": 1
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 2! What’s this?",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "dining room!",
+        "correct": 0,
+        "index": 2,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": false,
+        "setShow": false,
+        "status": 1
+      },
+      {
+        "txt": "bedroom!",
+        "correct": 1,
+        "index": 2,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": true,
+        "setShow": true,
+        "status": 1
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 3! What’s this? ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the bathroom!",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 4! What’s this? ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the hall!",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 5! What’s this? ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "kitchen!",
+        "correct": 0,
+        "index": 3,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": false,
+        "setShow": false,
+        "status": 1
+      },
+      {
+        "txt": "living room!",
+        "correct": 1,
+        "index": 3,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": true,
+        "setShow": true,
+        "status": 1
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 6! What’s this?",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the ",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "dining room!",
+        "correct": 1,
+        "index": 4,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": false,
+        "setShow": false,
+        "status": 1
+      },
+      {
+        "txt": "hall!",
+        "correct": 0,
+        "index": 4,
+        "setState": true,
+        "mediaType": 0,
+        "setType": "choose",
+        "deleteBtn": true,
+        "setShow": true,
+        "status": 1
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 7! What’s this?",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the kitchen!",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "Number 8! What’s this?",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "\n",
+        "setState": false,
+        "mediaType": 0,
+        "deleteBtn": true
+      },
+      {
+        "txt": "It’s the garage!",
+        "setState": true,
+        "mediaType": 0,
+        "deleteBtn": true
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "b881a98a7566092c25f722d49eaa04cc",
+    "typeCode": 24,
+    "customSign": "题型-24",
+    "unitId": "73764362e51f9adf0f186e006edd9338",
+    "levelId": "bdbf7ab9b729148e0a7ac1176adb21e4",
+    "topicBody": "Answer the question.",
+    "subjecttype": 3,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2020-01-14/956ce885c88804071247bb7ee519c2d1.png",
+        "ossFileName": "subject/topics/img/2020-01-14/956ce885c88804071247bb7ee519c2d1.png",
+        "size": 62209,
+        "name": "1.png",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "txt": "Can Ben play table tennis Can Ben play table Can Ben play table Can Ben play table?",
+        "mediaType": 0
+      },
+      {
+        "txt": "Can Ben play table tennis Can Ben play table.",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "txt": "No, he can’t.",
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "735633ad4955b8fedd3a8d0127184ae3",
+    "typeCode": 25,
+    "customSign": "题型-25",
+    "unitId": "1c228a917de1f5b320ce2a35275d9235",
+    "levelId": "a70b680c12d676cda705e2d4c2e8e761",
+    "topicBody": "Finish your workbook ,take a photo and upload. ",
+    "subjecttype": 4,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-25/fb37e0cd453465346e5d09f328ce2f64.jpg",
+        "ossFileName": "subject/topics/img/2019-11-25/fb37e0cd453465346e5d09f328ce2f64.jpg",
+        "size": 171222,
+        "name": "WBP1.jpg",
+        "index": 0,
+        "mediaType": 1
+      },
+      {
+        "txt": "",
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "1b89ea199580b8a6c6566ca6c49918a1",
+    "typeCode": 26,
+    "customSign": "题型-26",
+    "unitId": "1c228a917de1f5b320ce2a35275d9235",
+    "levelId": "a70b680c12d676cda705e2d4c2e8e761",
+    "topicBody": "   ",
+    "subjecttype": 4,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "Find the books around you,and say\"They are books.\"",
+        "index": 0,
+        "mediaType": 0
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 3
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 27,
+    "customSign": "题型-27",
+    "subjecttype": 4,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 3,
+        "img": "0",
+        "audio": "https://neo-temp.oss-cn-shenzhen.aliyuncs.com/app/temp/dub2.mp3",
+        "txt": "https://neo-temp.oss-cn-shenzhen.aliyuncs.com/app/temp/dub_utf.srt",
+        "video": "https://neo-temp.oss-cn-shenzhen.aliyuncs.com/app/temp/dub2.mp4",
+        "correct": 0,
+        "index": 3,
+        "status": 1
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 28,
+    "customSign": "题型-28",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 1,
+        "img": "http://oss.hkxdjy.com/My World/student/My World 6/Unit 1/Story/A Laptop for the Club audio/T3_u01_sf04_01.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "y",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "P",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "a",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "l",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "37f91eefa0e440b074a55e1ddb275624",
+    "typeCode": 28,
+    "customSign": "题型-28-2",
+    "unitId": "0143943391d8939ed11d161900627d63",
+    "levelId": "5c86b888a4d342da5f89c3d21cb807e5",
+    "topicBody": "Look at the picture and spell the word.",
+    "subjecttype": 2,
+    "times": 3,
+    "topics": [
+      {
+        "img": "http://oss.hkxdjy.com/subject/topics/img/2019-11-25/71f6a60b0f4df30b9e64831d41c81bed.jpg",
+        "ossFileName": "subject/topics/img/2019-11-25/71f6a60b0f4df30b9e64831d41c81bed.jpg",
+        "size": 92897,
+        "name": "living room.jpg",
+        "index": 0,
+        "mediaType": 1
+      }
+    ],
+    "options": [
+      {
+        "txt": "l",
+        "correct": 0,
+        "index": 0,
+        "mediaType": 0
+      },
+      {
+        "txt": "i",
+        "correct": 0,
+        "index": 1,
+        "mediaType": 0
+      },
+      {
+        "txt": "v",
+        "correct": 0,
+        "index": 2,
+        "mediaType": 0
+      },
+      {
+        "txt": "i",
+        "correct": 0,
+        "index": 3,
+        "mediaType": 0
+      },
+      {
+        "txt": "n",
+        "correct": 0,
+        "index": 4,
+        "mediaType": 0
+      },
+      {
+        "txt": "g",
+        "correct": 0,
+        "index": 5,
+        "mediaType": 0
+      },
+      {
+        "txt": " ",
+        "correct": 0,
+        "index": 6,
+        "mediaType": 0
+      },
+      {
+        "txt": "r",
+        "correct": 0,
+        "index": 7,
+        "mediaType": 0
+      },
+      {
+        "txt": "o",
+        "correct": 0,
+        "index": 8,
+        "mediaType": 0
+      },
+      {
+        "txt": "o",
+        "correct": 0,
+        "index": 9,
+        "mediaType": 0
+      },
+      {
+        "txt": "m",
+        "correct": 0,
+        "index": 10,
+        "mediaType": 0
+      }
+    ],
+    "extoptions": null
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 29,
+    "customSign": "题型-29",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 2,
+        "img": "",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591719021&di=68062d6794ce3efe96e456dea9d15583&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576bcc3090.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/tablet/T5_u1_tablet.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/headphones/T5_u1_headphones.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 30,
+    "customSign": "题型-30",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "0",
+        "audio": "",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "0",
+        "audio": "",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/tablet/T5_u1_tablet.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/headphones/T5_u1_headphones.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591739402&di=1b1451c9f4d9700af2b51b3928eef66c&imgtype=0&src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F01%2F90%2F07%2F5982359e92d93_610.jpg",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 5,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/charger/T5_u1_charger.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/pen drive/T5_u1_pen_drive.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591719021&di=68062d6794ce3efe96e456dea9d15583&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576bcc3090.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/satnav/T5_u1_satnav.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 4,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 32,
+    "customSign": "题型-32",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574951387039&di=bccb72fbb10ade0642c48e942b0295b5&imgtype=0&src=http%3A%2F%2Fdpic.tiankong.com%2F8n%2Fck%2FQJ8783437281.jpg",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 6,
+        "status": 0
+      }
+    ],
+    "options": []
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 33,
+    "customSign": "题型-33",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/tablet/T5_u1_tablet.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/headphones/T5_u1_headphones.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/charger/T5_u1_charger.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 34,
+    "customSign": "题型-34",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/tablet/T5_u1_tablet.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/headphones/T5_u1_headphones.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/pen drive/T5_u1_pen_drive.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/charger/T5_u1_charger.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 35,
+    "customSign": "题型-35",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 6/Starter Unit/Song/The alphabet rap/T3_CD1_track09.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "0",
+        "audio": "",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/tablet/T5_u1_tablet.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/headphones/T5_u1_headphones.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591739402&di=1b1451c9f4d9700af2b51b3928eef66c&imgtype=0&src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F01%2F90%2F07%2F5982359e92d93_610.jpg",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/charger/T5_u1_charger.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 5,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/video games console/T5_u1_video_games_console.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/pen drive/T5_u1_pen_drive.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591719021&di=68062d6794ce3efe96e456dea9d15583&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576bcc3090.png",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/satnav/T5_u1_satnav.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 4,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 36,
+    "customSign": "题型-36",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/tablet/T5_u1_tablet.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 1
+      },
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/headphones/T5_u1_headphones.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 1
+      },
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/charger/T5_u1_charger.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 1
+      },
+      {
+        "mediaType": 2,
+        "img": "0",
+        "audio": "http://oss.hkxdjy.com/My World/student/My World 8/Unit 1/Word/video games console/T5_u1_video_games_console.mp3",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591599721&di=73d61516185afd623b7bb2bff3a04f6e&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58f19a18a612e.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591573407&di=f38782f439015b1da3b468f4ac5831be&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F01%2F13%2F48%2F71%2F58ef88c6833ec.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591556658&di=c14d154bdeca200782ce50cb88d9a428&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c666efb.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567591703271&di=a7cd3b9a7f0d1250063a4ad26c0b98ff&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fdesign%2F00%2F07%2F85%2F23%2F58f576c978fb6.png",
+        "audio": "",
+        "txt": "",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 37,
+    "customSign": "题型-37",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/37_%E6%8B%96%E5%8A%A8%E9%A2%98_%E6%96%B0%E5%A2%9E9/u1810.png",
+        "audio": "",
+        "txt": "Is she in the _______? \n Yes, he is. ",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/37_%E6%8B%96%E5%8A%A8%E9%A2%98_%E6%96%B0%E5%A2%9E9/u1810.png",
+        "audio": "",
+        "txt": "Li is in the",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/37_%E6%8B%96%E5%8A%A8%E9%A2%98_%E6%96%B0%E5%A2%9E9/u1810.png",
+        "audio": "",
+        "txt": "David is in the",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "kitchen",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "bedroom",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "computer game over",
+        "video": "",
+        "correct": 0,
+        "index": 3,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "a9c18748f7032a2ef05b6ceb5d5aa76d",
+    "createtime": "2019-07-23 09:29:35",
+    "updatetime": "2019-07-23 09:29:35",
+    "typeCode": 37,
+    "customSign": "题型-37-2",
+    "subjecttype": 0,
+    "unitId": "c41da990fb7e546017d78d06b1b161d4",
+    "levelId": "041290fef8c9ab2fa7edb2bd209a2800",
+    "topicBody": "Listen and choose the correct answer.",
+    "times": 2,
+    "topics": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "Listen and choose the correct answer.",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/37_%E6%8B%96%E5%8A%A8%E9%A2%98_%E6%96%B0%E5%A2%9E9/u1810.png",
+        "audio": "",
+        "txt": "Sam is in theSam is in theSam is in theSam is in the",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/37_%E6%8B%96%E5%8A%A8%E9%A2%98_%E6%96%B0%E5%A2%9E9/u1810.png",
+        "audio": "",
+        "txt": "Li is in theSam",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 1
+      },
+      {
+        "mediaType": 1,
+        "img": "http://axure.hkxdjy.com/NeoABC_Exam/images/37_%E6%8B%96%E5%8A%A8%E9%A2%98_%E6%96%B0%E5%A2%9E9/u1810.png",
+        "audio": "",
+        "txt": "David is in theSam is in theSam is in theSam is in theSam is in the",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 1
+      }
+    ],
+    "options": [
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "kitchen",
+        "video": "",
+        "correct": 0,
+        "index": 0,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "bedroom",
+        "video": "",
+        "correct": 0,
+        "index": 1,
+        "status": 0
+      },
+      {
+        "mediaType": 0,
+        "img": "",
+        "audio": "",
+        "txt": "hall",
+        "video": "",
+        "correct": 0,
+        "index": 2,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "bff5d13d21009e79fdbe53d486175ec8",
+    "typeCode": 38,
+    "customSign": "题型-38-video",
+    "unitId": "9f2d3284fccb1d056f8d12a0d598a469",
+    "levelId": "d9db4e77daba1e310122f4ef2906febb",
+    "topicBody": "Karaoke",
+    "subjecttype": 4,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "http://oss.hkxdjy.com/subject/topics/srt/2019-12-19/13cb623c2d07f29f6810feeae414db41.srt",
+        "index": 0,
+        "mediaType": 3,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-19/8374cb87d57f8fef9c4eba42962ab81b.mp3",
+        "video": "http://oss.hkxdjy.com/subject/topics/video/2019-12-19/7548e50c837d06480d38737f0c002965.mp4",
+        "txtShow": true
+      }
+    ],
+    "options": null,
+    "extoptions": null
+  },
+  {
+    "id": "8f0965fb1efdd6b44adb21b58d2e487b",
+    "typeCode": 38,
+    "customSign": "题型-38-music",
+    "unitId": "9f2d3284fccb1d056f8d12a0d598a469",
+    "levelId": "d9db4e77daba1e310122f4ef2906febb",
+    "topicBody": "Karaoke",
+    "subjecttype": 4,
+    "times": 3,
+    "topics": [
+      {
+        "txt": "http://oss.hkxdjy.com/subject/topics/srt/2019-12-19/09198104d1a169ea06408ba8725dbb89.srt",
+        "index": 0,
+        "mediaType": 2,
+        "audio": "http://oss.hkxdjy.com/subject/topics/audio/2019-12-19/498b3d5b86fc7e015031ae29f36329bf.mp3",
+        "video": "http://oss.hkxdjy.com/subject/topics/video/2019-12-19/4b6f131759c1394da057e757d54efefa.mp3",
+        "txtShow": true
+      }
+    ],
+    "options": null,
+    "extoptions": null
+  }
+]

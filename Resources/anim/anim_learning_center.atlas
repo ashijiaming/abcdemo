@@ -1,0 +1,97 @@
+
+anim_learning_center.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 311, 253
+  size: 319, 257
+  orig: 319, 257
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 179
+  size: 307, 331
+  orig: 307, 331
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 52
+  size: 125, 220
+  orig: 125, 220
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 311, 61
+  size: 190, 294
+  orig: 190, 294
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 632, 345
+  size: 165, 381
+  orig: 165, 381
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 2, 2
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+G
+  rotate: true
+  xy: 93, 18
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+H
+  rotate: true
+  xy: 42, 11
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 266, 108
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 224, 79
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Learning Center
+  rotate: false
+  xy: 632, 267
+  size: 363, 76
+  orig: 363, 76
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 224, 128
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 266, 137
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+anim_girl.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 129, 22
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 641, 412
+  size: 98, 235
+  orig: 98, 235
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 599, 118
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 283, 2
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 716, 235
+  size: 115, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 908, 364
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+15
+  rotate: false
+  xy: 599, 224
+  size: 115, 126
+  orig: 117, 128
+  offset: 1, 1
+  index: -1
+16
+  rotate: true
+  xy: 366, 11
+  size: 92, 141
+  orig: 92, 141
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 324, 105
+  size: 72, 151
+  orig: 72, 151
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 878, 435
+  size: 75, 144
+  orig: 75, 144
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 878, 392
+  size: 138, 41
+  orig: 140, 43
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 482, 202
+  size: 115, 155
+  orig: 115, 155
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 795, 227
+  size: 51, 123
+  orig: 51, 123
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 118
+  size: 320, 392
+  orig: 320, 392
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 859, 345
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 324, 179
+  size: 156, 178
+  orig: 156, 178
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 509, 5
+  size: 41, 49
+  orig: 43, 51
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 477, 119
+  size: 75, 39
+  orig: 77, 41
+  offset: 1, 1
+  index: -1
+book
+  rotate: true
+  xy: 2, 2
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 482, 160
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 785, 352
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 509, 48
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: false
+  xy: 560, 127
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 324, 359
+  size: 315, 151
+  orig: 315, 151
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 641, 352
+  size: 58, 142
+  orig: 58, 142
+  offset: 0, 0
+  index: -1

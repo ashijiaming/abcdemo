@@ -1,0 +1,62 @@
+
+anim_podium.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 81
+  size: 273, 429
+  orig: 273, 429
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 2, 51
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 277, 88
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+M
+  rotate: false
+  xy: 277, 116
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 364, 483
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 2, 22
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Podium
+  rotate: true
+  xy: 277, 147
+  size: 363, 85
+  orig: 363, 85
+  offset: 0, 0
+  index: -1
+U
+  rotate: true
+  xy: 2, 2
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1

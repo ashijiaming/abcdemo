@@ -1,0 +1,41 @@
+
+anim_cinema.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 38
+  size: 283, 216
+  orig: 283, 216
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 551, 7
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 387, 7
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 287, 2
+  size: 165, 98
+  orig: 165, 98
+  offset: 0, 0
+  index: -1
+Cinema
+  rotate: false
+  xy: 287, 169
+  size: 351, 85
+  orig: 351, 85
+  offset: 0, 0
+  index: -1
